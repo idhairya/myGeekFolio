@@ -85,10 +85,6 @@ a:hover {
 }
 
 .overlay-mf {
-  background-color: #0078ff;
-}
-
-.overlay-mf {
   position: absolute;
   top: 0;
   left: 0px;
@@ -693,7 +689,7 @@ a:hover {
 
 .skill-mf .progress .progress-bar {
   height: .7rem;
-  background-color: #0078ff;
+  background-color: #800000;
 }
 
 /*======================================
