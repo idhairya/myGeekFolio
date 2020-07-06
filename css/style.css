@@ -614,7 +614,7 @@ a:hover {
 }
 
 .intro .intro-title {
-  color: #fff;
+  color: snow;
   font-weight: 600;
   font-size: 3rem;
 }
@@ -1025,7 +1025,7 @@ a:hover {
 
 footer {
   text-align: center;
-  color: #fff;
+  color: #000;
   padding-bottom: 4rem;
 }
 
@@ -1038,7 +1038,8 @@ footer .credits {
 }
 
 footer .credits a {
-  color: #fff;
+    font-weight: bold;
+  color: #000;
 }
 
 /*======================================
